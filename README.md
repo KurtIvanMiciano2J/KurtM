@@ -1,2 +1,0 @@
-# KurtM
-EXAMPLE CODE
